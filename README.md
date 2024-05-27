@@ -1,2 +1,2 @@
 # CodeConnect
- Projeto de página login e cadastro curso da Alura
+ Projeto de página login e cadastro usando react curso da Alura
